@@ -169,6 +169,7 @@ class Movie extends Model
         FROM movies 
         $innerJoin
         $where
+        order by name
         EOF;
         //var_dump($sqlMovies);die;
         $sth = $conn->prepare($sqlMovies);
@@ -206,6 +207,7 @@ class Movie extends Model
             FROM genres 
             INNER JOIN filmes_generos on genres.id = filmes_generos.id_genero
             WHERE filmes_generos.id_filme in ($bindMovieIds)
+            order by name
             EOF;
             
             $sth = $conn->prepare($sqlGenres);

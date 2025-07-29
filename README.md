@@ -1,6 +1,6 @@
 # Construção de uma API de exibição de filmes
 
-O intuito do projeto é criar uma API REST, para a manipulação dos dados, e de um catálogo de filmes
+O intuito do projeto é criar uma API REST, para a manipular os dados dos filmes, e criar um catálogo de filmes
 
 ## 📦 Pré requisitos
 
@@ -9,16 +9,17 @@ O intuito do projeto é criar uma API REST, para a manipulação dos dados, e de
 3. Usar o Docker >= 28
 4. Usar o Axios >= 1.9
 5. Usar o Vite >= 6.3
+6. Usar o Ngix >= 1.27
 
 ## 🏗️ Contruido com
 
 * [PHP](https://www.php.net/docs.php) - Linguagem usada no backend
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Linguagem usado no frontend
 * [Axios](https://axios-http.com/ptbr/docs/intro) - Cliente HTTP
-* [MySql](https://dev.mysql.com/doc/) - Banco de dados
+* [Vite](https://vite.dev/guide/) - Ferramenta de otimização de desenvolvimento
+* [Nginx](https://nginx.org/en/docs/) - Servidor
 * [Composer](https://getcomposer.org/) - Gerenciador de depedências
-* [Docker](https://docs.docker.com/) - Gerenciador da aplicação em containers
-* [Vite](https://vite.dev/guide/) - Servidor
+* [Docker](https://docs.docker.com/) - Genrênciador da aplicação em containers
 
 ## ⚒️ Autores
 * **Vinicius Alves** - *Documentação e aprendizado* - [ViniciusAlves](https://github.com/Vinicius-ASousa)
