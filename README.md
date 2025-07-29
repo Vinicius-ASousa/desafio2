@@ -1,6 +1,6 @@
 # Construção de uma API de exibição de filmes
 
-O intuito do projeto é criar uma API REST, para a manipular os dados dos filmes, e criar um catálogo de filmes
+O intuito do projeto é criar uma API REST, para a manipular os dados de filmes, e criar um catálogo para exibir essas informações
 
 ## 📦 Pré requisitos
 
@@ -19,7 +19,7 @@ O intuito do projeto é criar uma API REST, para a manipular os dados dos filmes
 * [Vite](https://vite.dev/guide/) - Ferramenta de otimização de desenvolvimento
 * [Nginx](https://nginx.org/en/docs/) - Servidor
 * [Composer](https://getcomposer.org/) - Gerenciador de depedências
-* [Docker](https://docs.docker.com/) - Genrenciador da aplicação em containers
+* [Docker](https://docs.docker.com/) - Gerenciador da aplicação em containers
 
 ## ⚒️ Autores
 * **Vinicius Alves** - *Documentação e aprendizado* - [ViniciusAlves](https://github.com/Vinicius-ASousa)
