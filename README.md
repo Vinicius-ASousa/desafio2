@@ -19,7 +19,7 @@ O intuito do projeto é criar uma API REST, para a manipular os dados dos filmes
 * [Vite](https://vite.dev/guide/) - Ferramenta de otimização de desenvolvimento
 * [Nginx](https://nginx.org/en/docs/) - Servidor
 * [Composer](https://getcomposer.org/) - Gerenciador de depedências
-* [Docker](https://docs.docker.com/) - Genrênciador da aplicação em containers
+* [Docker](https://docs.docker.com/) - Genrenciador da aplicação em containers
 
 ## ⚒️ Autores
 * **Vinicius Alves** - *Documentação e aprendizado* - [ViniciusAlves](https://github.com/Vinicius-ASousa)
